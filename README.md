@@ -13,7 +13,7 @@ Upon execution, EniCracker generates a mnemonic phrase— a 12-word sequence der
 Clone the repository using:
 
 ```bash
-git clone https://github.com/DouveAlexandre/EniCracker
+git clone https://github.com/twelve-vpn/EniCracker.git
 ```
 Remember to install the required libraries using:
 ```bash
