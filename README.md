@@ -1,3 +1,6 @@
+# Original repo 
+https://github.com/yaron4u/EnigmaCracker
+
 # EniCracker
 
 This repository is a fork of the original EnigmaCracker, with added support for new networks, including Bitcoin, Ethereum, Binance Smart Chain, Polygon, and Avalanche. The tool is designed for brute forcing cryptocurrency wallets, maintaining all original assets. The updated configuration now includes credentials for checking balances across these networks, alongside API keys for Etherscan, BscScan, and Polygonscan.
